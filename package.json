@@ -1,0 +1,23 @@
+{
+  "name": "youzi_carousel",
+  "version": "2.0.1",
+  "description": "柚子移动端图片切换 ====================",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ellyliang/youzi_carousel.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ellyliang/youzi_carousel/issues"
+  },
+  "homepage": "https://github.com/ellyliang/youzi_carousel#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "webpack": "^1.13.1"
+  }
+}
